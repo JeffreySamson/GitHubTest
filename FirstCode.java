@@ -11,6 +11,8 @@ public class FirstCode {
 			int x = 5;
 			x = x+4;
 			//should give you an error
+			x = 5.0;
+
 		
 	}
 
